@@ -22,3 +22,12 @@ public class MoveZerosToEnd
 	}
 
 }
+
+
+
+//if(arr[i]!=0){ //use this swapping approach for move zeroes to end.
+//    int temp=arr[i];
+//    arr[i]=arr[j];
+//    arr[j]=temp;
+//    j++;
+//}
